@@ -9,7 +9,7 @@ def getSnPDatasetPath():
 
 # Car dataset
 def getCarDatasetPath():
-    path_to_car_dataset = ".venv/include/car_price_dataset.csv"
+    path_to_car_dataset = "datasets/include/car_price_dataset.csv"
     print("Path to dataset files:", path_to_car_dataset)
     return path_to_car_dataset
 
